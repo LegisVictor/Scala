@@ -1,0 +1,26 @@
+<Productos_web>
+	<Filial>CO</Filial>
+	<CodProd>1000000157</CodProd>
+	<Nombre>Silvia Suscriptor Pruebas</Nombre>
+	<UEN>4</UEN>
+	<CodMedio>6</CodMedio>
+	<CodObra>LAD</CodObra>
+	<TipoClave>AT</TipoClave>
+	<Plantilla></Plantilla>
+	<FechaHoraCrea>20/10/2025</FechaHoraCrea>
+	<TipoTrama>INS</TipoTrama>
+</Productos_web>
+
+
+<Productos_web>
+	<Filial>CO</Filial>
+	<CodProd>904694</CodProd>
+	<Nombre>ANALITICA CONTRATACION ESTATAL</Nombre>
+	<UEN>4</UEN>
+	<CodMedio>51</CodMedio>
+	<CodObra>PAC</CodObra>
+	<TipoClave>AT</TipoClave>
+	<Plantilla>P2</Plantilla>
+	<FechaHoraCrea>11/03/2021</FechaHoraCrea>
+	<TipoTrama>INS</TipoTrama>
+</Productos_web>
